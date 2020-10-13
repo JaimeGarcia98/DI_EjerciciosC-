@@ -1,0 +1,7 @@
+C:\Users\jaime\OneDrive\Escritorio\Adivinasion\Adivinasion\obj\Debug\Adivinasion.csprojAssemblyReference.cache
+C:\Users\jaime\OneDrive\Escritorio\Adivinasion\Adivinasion\obj\Debug\Adivinasion.csproj.CoreCompileInputs.cache
+C:\Users\jaime\OneDrive\Escritorio\Adivinasion\Adivinasion\bin\Debug\Adivinasion.exe.config
+C:\Users\jaime\OneDrive\Escritorio\Adivinasion\Adivinasion\bin\Debug\Adivinasion.exe
+C:\Users\jaime\OneDrive\Escritorio\Adivinasion\Adivinasion\bin\Debug\Adivinasion.pdb
+C:\Users\jaime\OneDrive\Escritorio\Adivinasion\Adivinasion\obj\Debug\Adivinasion.exe
+C:\Users\jaime\OneDrive\Escritorio\Adivinasion\Adivinasion\obj\Debug\Adivinasion.pdb

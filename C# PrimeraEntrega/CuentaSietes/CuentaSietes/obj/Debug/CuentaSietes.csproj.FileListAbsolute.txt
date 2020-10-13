@@ -1,0 +1,7 @@
+C:\Users\jaime\source\repos\CuentaSietes\CuentaSietes\obj\Debug\CuentaSietes.csprojAssemblyReference.cache
+C:\Users\jaime\source\repos\CuentaSietes\CuentaSietes\obj\Debug\CuentaSietes.csproj.CoreCompileInputs.cache
+C:\Users\jaime\source\repos\CuentaSietes\CuentaSietes\bin\Debug\CuentaSietes.exe.config
+C:\Users\jaime\source\repos\CuentaSietes\CuentaSietes\bin\Debug\CuentaSietes.exe
+C:\Users\jaime\source\repos\CuentaSietes\CuentaSietes\bin\Debug\CuentaSietes.pdb
+C:\Users\jaime\source\repos\CuentaSietes\CuentaSietes\obj\Debug\CuentaSietes.exe
+C:\Users\jaime\source\repos\CuentaSietes\CuentaSietes\obj\Debug\CuentaSietes.pdb

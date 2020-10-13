@@ -1,0 +1,7 @@
+C:\Users\jaime\source\repos\ChibatoDeDias\ChibatoDeDias\bin\Debug\ChibatoDeDias.exe.config
+C:\Users\jaime\source\repos\ChibatoDeDias\ChibatoDeDias\bin\Debug\ChibatoDeDias.exe
+C:\Users\jaime\source\repos\ChibatoDeDias\ChibatoDeDias\bin\Debug\ChibatoDeDias.pdb
+C:\Users\jaime\source\repos\ChibatoDeDias\ChibatoDeDias\obj\Debug\ChibatoDeDias.csprojAssemblyReference.cache
+C:\Users\jaime\source\repos\ChibatoDeDias\ChibatoDeDias\obj\Debug\ChibatoDeDias.csproj.CoreCompileInputs.cache
+C:\Users\jaime\source\repos\ChibatoDeDias\ChibatoDeDias\obj\Debug\ChibatoDeDias.exe
+C:\Users\jaime\source\repos\ChibatoDeDias\ChibatoDeDias\obj\Debug\ChibatoDeDias.pdb

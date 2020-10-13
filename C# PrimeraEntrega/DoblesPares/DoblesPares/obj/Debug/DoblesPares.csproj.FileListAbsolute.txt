@@ -1,0 +1,7 @@
+C:\Users\jaime\OneDrive\Escritorio\DoblesPares\DoblesPares\bin\Debug\DoblesPares.exe.config
+C:\Users\jaime\OneDrive\Escritorio\DoblesPares\DoblesPares\bin\Debug\DoblesPares.exe
+C:\Users\jaime\OneDrive\Escritorio\DoblesPares\DoblesPares\bin\Debug\DoblesPares.pdb
+C:\Users\jaime\OneDrive\Escritorio\DoblesPares\DoblesPares\obj\Debug\DoblesPares.csprojAssemblyReference.cache
+C:\Users\jaime\OneDrive\Escritorio\DoblesPares\DoblesPares\obj\Debug\DoblesPares.csproj.CoreCompileInputs.cache
+C:\Users\jaime\OneDrive\Escritorio\DoblesPares\DoblesPares\obj\Debug\DoblesPares.exe
+C:\Users\jaime\OneDrive\Escritorio\DoblesPares\DoblesPares\obj\Debug\DoblesPares.pdb

@@ -1,0 +1,7 @@
+C:\Users\jaime\OneDrive\Escritorio\Mayorque\Mayorque\bin\Debug\Mayorque.exe.config
+C:\Users\jaime\OneDrive\Escritorio\Mayorque\Mayorque\bin\Debug\Mayorque.exe
+C:\Users\jaime\OneDrive\Escritorio\Mayorque\Mayorque\bin\Debug\Mayorque.pdb
+C:\Users\jaime\OneDrive\Escritorio\Mayorque\Mayorque\obj\Debug\Mayorque.csprojAssemblyReference.cache
+C:\Users\jaime\OneDrive\Escritorio\Mayorque\Mayorque\obj\Debug\Mayorque.csproj.CoreCompileInputs.cache
+C:\Users\jaime\OneDrive\Escritorio\Mayorque\Mayorque\obj\Debug\Mayorque.exe
+C:\Users\jaime\OneDrive\Escritorio\Mayorque\Mayorque\obj\Debug\Mayorque.pdb
