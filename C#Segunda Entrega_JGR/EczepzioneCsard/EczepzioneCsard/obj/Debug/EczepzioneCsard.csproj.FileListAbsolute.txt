@@ -1,0 +1,7 @@
+C:\Users\jaime\source\repos\EczepzioneCsard\EczepzioneCsard\obj\Debug\EczepzioneCsard.csprojAssemblyReference.cache
+C:\Users\jaime\source\repos\EczepzioneCsard\EczepzioneCsard\obj\Debug\EczepzioneCsard.csproj.CoreCompileInputs.cache
+C:\Users\jaime\source\repos\EczepzioneCsard\EczepzioneCsard\bin\Debug\EczepzioneCsard.exe.config
+C:\Users\jaime\source\repos\EczepzioneCsard\EczepzioneCsard\bin\Debug\EczepzioneCsard.exe
+C:\Users\jaime\source\repos\EczepzioneCsard\EczepzioneCsard\bin\Debug\EczepzioneCsard.pdb
+C:\Users\jaime\source\repos\EczepzioneCsard\EczepzioneCsard\obj\Debug\EczepzioneCsard.exe
+C:\Users\jaime\source\repos\EczepzioneCsard\EczepzioneCsard\obj\Debug\EczepzioneCsard.pdb

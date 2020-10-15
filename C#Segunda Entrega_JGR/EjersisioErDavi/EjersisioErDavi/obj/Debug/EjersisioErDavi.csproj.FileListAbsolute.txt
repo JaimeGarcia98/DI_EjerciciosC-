@@ -1,0 +1,7 @@
+C:\Users\jaime\source\repos\EjersisioErDavi\EjersisioErDavi\bin\Debug\EjersisioErDavi.exe.config
+C:\Users\jaime\source\repos\EjersisioErDavi\EjersisioErDavi\bin\Debug\EjersisioErDavi.exe
+C:\Users\jaime\source\repos\EjersisioErDavi\EjersisioErDavi\bin\Debug\EjersisioErDavi.pdb
+C:\Users\jaime\source\repos\EjersisioErDavi\EjersisioErDavi\obj\Debug\EjersisioErDavi.csprojAssemblyReference.cache
+C:\Users\jaime\source\repos\EjersisioErDavi\EjersisioErDavi\obj\Debug\EjersisioErDavi.csproj.CoreCompileInputs.cache
+C:\Users\jaime\source\repos\EjersisioErDavi\EjersisioErDavi\obj\Debug\EjersisioErDavi.exe
+C:\Users\jaime\source\repos\EjersisioErDavi\EjersisioErDavi\obj\Debug\EjersisioErDavi.pdb

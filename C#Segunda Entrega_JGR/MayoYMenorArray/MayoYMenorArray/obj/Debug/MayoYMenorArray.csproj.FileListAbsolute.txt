@@ -1,0 +1,14 @@
+C:\Users\jaime\source\repos\MayoYMenorArray\MayoYMenorArray\bin\Debug\MayoYMenorArray.exe.config
+C:\Users\jaime\source\repos\MayoYMenorArray\MayoYMenorArray\bin\Debug\MayoYMenorArray.exe
+C:\Users\jaime\source\repos\MayoYMenorArray\MayoYMenorArray\bin\Debug\MayoYMenorArray.pdb
+C:\Users\jaime\source\repos\MayoYMenorArray\MayoYMenorArray\obj\Debug\MayoYMenorArray.csprojAssemblyReference.cache
+C:\Users\jaime\source\repos\MayoYMenorArray\MayoYMenorArray\obj\Debug\MayoYMenorArray.csproj.CoreCompileInputs.cache
+C:\Users\jaime\source\repos\MayoYMenorArray\MayoYMenorArray\obj\Debug\MayoYMenorArray.exe
+C:\Users\jaime\source\repos\MayoYMenorArray\MayoYMenorArray\obj\Debug\MayoYMenorArray.pdb
+C:\Users\jaime\OneDrive\Escritorio\MayoYMenorArray\MayoYMenorArray\obj\Debug\MayoYMenorArray.csprojAssemblyReference.cache
+C:\Users\jaime\OneDrive\Escritorio\MayoYMenorArray\MayoYMenorArray\obj\Debug\MayoYMenorArray.csproj.CoreCompileInputs.cache
+C:\Users\jaime\OneDrive\Escritorio\MayoYMenorArray\MayoYMenorArray\obj\Debug\MayoYMenorArray.exe
+C:\Users\jaime\OneDrive\Escritorio\MayoYMenorArray\MayoYMenorArray\obj\Debug\MayoYMenorArray.pdb
+C:\Users\jaime\OneDrive\Escritorio\MayoYMenorArray\MayoYMenorArray\bin\Debug\MayoYMenorArray.exe.config
+C:\Users\jaime\OneDrive\Escritorio\MayoYMenorArray\MayoYMenorArray\bin\Debug\MayoYMenorArray.exe
+C:\Users\jaime\OneDrive\Escritorio\MayoYMenorArray\MayoYMenorArray\bin\Debug\MayoYMenorArray.pdb
