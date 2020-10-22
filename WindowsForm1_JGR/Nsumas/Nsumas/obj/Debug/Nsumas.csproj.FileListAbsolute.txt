@@ -1,0 +1,10 @@
+C:\Users\jaime\OneDrive\Escritorio\Nsumas\Nsumas\bin\Debug\Nsumas.exe.config
+C:\Users\jaime\OneDrive\Escritorio\Nsumas\Nsumas\bin\Debug\Nsumas.exe
+C:\Users\jaime\OneDrive\Escritorio\Nsumas\Nsumas\bin\Debug\Nsumas.pdb
+C:\Users\jaime\OneDrive\Escritorio\Nsumas\Nsumas\obj\Debug\Nsumas.csprojAssemblyReference.cache
+C:\Users\jaime\OneDrive\Escritorio\Nsumas\Nsumas\obj\Debug\Nsumas.Form1.resources
+C:\Users\jaime\OneDrive\Escritorio\Nsumas\Nsumas\obj\Debug\Nsumas.Properties.Resources.resources
+C:\Users\jaime\OneDrive\Escritorio\Nsumas\Nsumas\obj\Debug\Nsumas.csproj.GenerateResource.cache
+C:\Users\jaime\OneDrive\Escritorio\Nsumas\Nsumas\obj\Debug\Nsumas.csproj.CoreCompileInputs.cache
+C:\Users\jaime\OneDrive\Escritorio\Nsumas\Nsumas\obj\Debug\Nsumas.exe
+C:\Users\jaime\OneDrive\Escritorio\Nsumas\Nsumas\obj\Debug\Nsumas.pdb

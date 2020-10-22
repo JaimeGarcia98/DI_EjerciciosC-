@@ -1,0 +1,10 @@
+C:\Users\jaime\source\repos\Sumatorio\Sumatorio\obj\Debug\Sumatorio.csprojAssemblyReference.cache
+C:\Users\jaime\source\repos\Sumatorio\Sumatorio\obj\Debug\Sumatorio.Form1.resources
+C:\Users\jaime\source\repos\Sumatorio\Sumatorio\obj\Debug\Sumatorio.Properties.Resources.resources
+C:\Users\jaime\source\repos\Sumatorio\Sumatorio\obj\Debug\Sumatorio.csproj.GenerateResource.cache
+C:\Users\jaime\source\repos\Sumatorio\Sumatorio\obj\Debug\Sumatorio.csproj.CoreCompileInputs.cache
+C:\Users\jaime\source\repos\Sumatorio\Sumatorio\bin\Debug\Sumatorio.exe.config
+C:\Users\jaime\source\repos\Sumatorio\Sumatorio\bin\Debug\Sumatorio.exe
+C:\Users\jaime\source\repos\Sumatorio\Sumatorio\bin\Debug\Sumatorio.pdb
+C:\Users\jaime\source\repos\Sumatorio\Sumatorio\obj\Debug\Sumatorio.exe
+C:\Users\jaime\source\repos\Sumatorio\Sumatorio\obj\Debug\Sumatorio.pdb

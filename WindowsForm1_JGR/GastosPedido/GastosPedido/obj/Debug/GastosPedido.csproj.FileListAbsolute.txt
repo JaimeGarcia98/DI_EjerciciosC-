@@ -1,0 +1,10 @@
+C:\Users\jaime\OneDrive\Escritorio\GastosPedido\GastosPedido\bin\Debug\GastosPedido.exe.config
+C:\Users\jaime\OneDrive\Escritorio\GastosPedido\GastosPedido\bin\Debug\GastosPedido.exe
+C:\Users\jaime\OneDrive\Escritorio\GastosPedido\GastosPedido\bin\Debug\GastosPedido.pdb
+C:\Users\jaime\OneDrive\Escritorio\GastosPedido\GastosPedido\obj\Debug\GastosPedido.csprojAssemblyReference.cache
+C:\Users\jaime\OneDrive\Escritorio\GastosPedido\GastosPedido\obj\Debug\GastosPedido.Form1.resources
+C:\Users\jaime\OneDrive\Escritorio\GastosPedido\GastosPedido\obj\Debug\GastosPedido.Properties.Resources.resources
+C:\Users\jaime\OneDrive\Escritorio\GastosPedido\GastosPedido\obj\Debug\GastosPedido.csproj.GenerateResource.cache
+C:\Users\jaime\OneDrive\Escritorio\GastosPedido\GastosPedido\obj\Debug\GastosPedido.csproj.CoreCompileInputs.cache
+C:\Users\jaime\OneDrive\Escritorio\GastosPedido\GastosPedido\obj\Debug\GastosPedido.exe
+C:\Users\jaime\OneDrive\Escritorio\GastosPedido\GastosPedido\obj\Debug\GastosPedido.pdb

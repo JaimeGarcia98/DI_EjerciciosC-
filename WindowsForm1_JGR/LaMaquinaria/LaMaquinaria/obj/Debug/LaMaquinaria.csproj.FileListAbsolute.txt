@@ -1,0 +1,10 @@
+C:\Users\jaime\OneDrive\Escritorio\LaMaquinaria\LaMaquinaria\bin\Debug\LaMaquinaria.exe.config
+C:\Users\jaime\OneDrive\Escritorio\LaMaquinaria\LaMaquinaria\bin\Debug\LaMaquinaria.exe
+C:\Users\jaime\OneDrive\Escritorio\LaMaquinaria\LaMaquinaria\bin\Debug\LaMaquinaria.pdb
+C:\Users\jaime\OneDrive\Escritorio\LaMaquinaria\LaMaquinaria\obj\Debug\LaMaquinaria.csprojAssemblyReference.cache
+C:\Users\jaime\OneDrive\Escritorio\LaMaquinaria\LaMaquinaria\obj\Debug\LaMaquinaria.Form1.resources
+C:\Users\jaime\OneDrive\Escritorio\LaMaquinaria\LaMaquinaria\obj\Debug\LaMaquinaria.Properties.Resources.resources
+C:\Users\jaime\OneDrive\Escritorio\LaMaquinaria\LaMaquinaria\obj\Debug\LaMaquinaria.csproj.GenerateResource.cache
+C:\Users\jaime\OneDrive\Escritorio\LaMaquinaria\LaMaquinaria\obj\Debug\LaMaquinaria.csproj.CoreCompileInputs.cache
+C:\Users\jaime\OneDrive\Escritorio\LaMaquinaria\LaMaquinaria\obj\Debug\LaMaquinaria.exe
+C:\Users\jaime\OneDrive\Escritorio\LaMaquinaria\LaMaquinaria\obj\Debug\LaMaquinaria.pdb

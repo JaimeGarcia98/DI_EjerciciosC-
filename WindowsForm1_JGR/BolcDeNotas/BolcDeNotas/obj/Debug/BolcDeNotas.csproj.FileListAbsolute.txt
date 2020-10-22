@@ -1,0 +1,10 @@
+C:\Users\jaime\OneDrive\Escritorio\BolcDeNotas\BolcDeNotas\bin\Debug\BolcDeNotas.exe.config
+C:\Users\jaime\OneDrive\Escritorio\BolcDeNotas\BolcDeNotas\bin\Debug\BolcDeNotas.exe
+C:\Users\jaime\OneDrive\Escritorio\BolcDeNotas\BolcDeNotas\bin\Debug\BolcDeNotas.pdb
+C:\Users\jaime\OneDrive\Escritorio\BolcDeNotas\BolcDeNotas\obj\Debug\BolcDeNotas.csprojAssemblyReference.cache
+C:\Users\jaime\OneDrive\Escritorio\BolcDeNotas\BolcDeNotas\obj\Debug\BolcDeNotas.Form1.resources
+C:\Users\jaime\OneDrive\Escritorio\BolcDeNotas\BolcDeNotas\obj\Debug\BolcDeNotas.Properties.Resources.resources
+C:\Users\jaime\OneDrive\Escritorio\BolcDeNotas\BolcDeNotas\obj\Debug\BolcDeNotas.csproj.GenerateResource.cache
+C:\Users\jaime\OneDrive\Escritorio\BolcDeNotas\BolcDeNotas\obj\Debug\BolcDeNotas.csproj.CoreCompileInputs.cache
+C:\Users\jaime\OneDrive\Escritorio\BolcDeNotas\BolcDeNotas\obj\Debug\BolcDeNotas.exe
+C:\Users\jaime\OneDrive\Escritorio\BolcDeNotas\BolcDeNotas\obj\Debug\BolcDeNotas.pdb
